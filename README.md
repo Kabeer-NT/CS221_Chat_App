@@ -1,1 +1,2 @@
 # CS221_Chat_App
+As part of my CS 221 (C and Systems Programming) project 05, here I built my very own chat app using TCP and UDP signalling. At the moment the application is basic but in the future can be improved upon with a UI and some additional features. The entire implementation was done myself using the poll() functions as well as some other C libraries. UDP was used as a mechanism to send presence messages whereas TCP was used to tranfer and receive messages. 
